@@ -1,6 +1,6 @@
-div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=200&section=header&text=Florencia%20Cracogna&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Backend%20Focus%20%7C%20CPN%20→%20Dev&descAlignY=55&descSize=18&descColor=a8d4f5" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=200&section=header&text=Florencia%20Cracogna&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Backend%20Focus%20%7C%20CPN%20%E2%86%92%20Dev&descAlignY=55&descSize=18&descColor=a8d4f5" />
 
 </div>
 
@@ -56,7 +56,8 @@ const florencia = {
 
 ## 🚀 Proyectos Destacados
 
-### 🏢 [VIACORE – Plataforma de Capacitaciones Corporativas](https://github.com/FlorenciaCracogna/estudio-via3-backend)
+### 🏢 VIACORE – Plataforma de Capacitaciones Corporativas
+
 > Proyecto Final Henry | Equipo de 8 personas | May 2026 – Jun 2026
 
 Plataforma fullstack para comercialización de servicios de capacitación empresarial.
@@ -68,9 +69,21 @@ Plataforma fullstack para comercialización de servicios de capacitación empres
 
 `React` `Next.js` `NestJS` `TypeScript` `PostgreSQL` `Supabase` `Vercel` `Railway`
 
+<div align="center">
+
+<a href="https://github.com/FlorenciaCracogna/estudio-via3-backend" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20Repositorio%20Backend-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/FlorenciaCracogna/estudio-via3-frontend" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20Repositorio%20Frontend-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
 ---
 
 ### 🛒 E-Commerce Tecnológico – Backend
+
 > Proyecto M4 Henry | Individual | Mar 2026 – Abr 2026
 
 Backend completo de un e-commerce de productos tecnológicos.
@@ -80,14 +93,23 @@ Backend completo de un e-commerce de productos tecnológicos.
 
 `Express` `TypeScript` `NestJS` `TypeORM` `PostgreSQL` `Swagger`
 
+<div align="center">
+
+<a href="https://github.com/FlorenciaCracogna/REEMPLAZA-CON-EL-REPO-DEL-M4" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlorenciaCracogna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorenciaCracogna&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlorenciaCracogna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorenciaCracogna&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -97,9 +119,15 @@ Backend completo de un e-commerce de productos tecnológicos.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/florencia-cracogna)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cra.florenciacracogna@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FlorenciaCracogna)
+<a href="https://linkedin.com/in/florencia-cracogna" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:cra.florenciacracogna@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/FlorenciaCracogna" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
