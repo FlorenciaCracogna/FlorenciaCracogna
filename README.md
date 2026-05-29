@@ -71,10 +71,10 @@ Plataforma fullstack para comercialización de servicios de capacitación empres
 
 <div align="center">
 
-<a href="https://github.com/FlorenciaCracogna/estudio-via3-backend" target="_blank">
+<a href="https://github.com/FlorenciaCracogna/Viacore-backend" target="_blank">
   <img src="https://img.shields.io/badge/Ver%20Repositorio%20Backend-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/FlorenciaCracogna/estudio-via3-frontend" target="_blank">
+<a href="https://github.com/FlorenciaCracogna/Viacore-frontend" target="_blank">
   <img src="https://img.shields.io/badge/Ver%20Repositorio%20Frontend-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -95,7 +95,7 @@ Backend completo de un e-commerce de productos tecnológicos.
 
 <div align="center">
 
-<a href="https://github.com/FlorenciaCracogna/REEMPLAZA-CON-EL-REPO-DEL-M4" target="_blank">
+<a href="https://github.com/FlorenciaCracogna/Ecommerce-backend-M4" target="_blank">
   <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
